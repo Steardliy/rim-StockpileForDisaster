@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+  <StockpileForDisaster.EntityListCompTypeDef>
+    <defName>TypeOnlyRecieve</defName>
+    <label>Allow to take</label>
+    <description>When this checkbox is enabled, restriction settings are ignored.</description>
+  </StockpileForDisaster.EntityListCompTypeDef>
+
+  <StockpileForDisaster.EntityListCompTypeDef>
+    <defName>TypeOnlySend</defName>
+    <label></label>
+    <description></description>
+  </StockpileForDisaster.EntityListCompTypeDef>
+</Defs>

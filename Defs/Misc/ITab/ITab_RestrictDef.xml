@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+  <StockpileForDisaster.ITab_RestrictDef>
+    <defName>tabSettings</defName>
+    <areaHeight>35</areaHeight>
+    <areaSize>
+      <x>300</x>
+      <y>480</y>
+    </areaSize>
+    <topMargine>25</topMargine>
+    <centerMargine>0</centerMargine>
+  </StockpileForDisaster.ITab_RestrictDef>
+</Defs>

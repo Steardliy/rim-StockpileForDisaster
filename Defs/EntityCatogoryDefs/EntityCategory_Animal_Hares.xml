@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryHare</defName>
+    <!--<label>Hare</label>-->
+    <description>Hare.</description>
+    <childThingDefs>
+      <li>Hare</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategorySnowhare</defName>
+    <!--<label>Snowhare</label>-->
+    <description>Snowhare.</description>
+    <childThingDefs>
+      <li>Snowhare</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+</Defs>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+  <StockpileForDisaster.CategoryNodeDef>
+    <defName>RecieveRoot</defName>
+    <label>RecieveRoot</label>
+    <description>RecieveRoot.</description>
+    <childSpecialEntityFilters>
+      <li>EntityFilter_Psychopath</li>
+      <li>EntityFilter_Cannibal</li>
+    </childSpecialEntityFilters>
+    <workerClass>
+      <li>StockpileForDisaster.SpecialThingFilterWorker_Player</li>
+    </workerClass>
+  </StockpileForDisaster.CategoryNodeDef>
+</Defs>

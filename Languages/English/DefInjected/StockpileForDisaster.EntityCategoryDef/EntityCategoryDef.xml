@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CategoryFemale.label>Colonists(Female)</CategoryFemale.label>
+  <CategoryFemale.description>Male colonists.</CategoryFemale.description>
+
+  <CategoryMale.label>Colonists(Male)</CategoryMale.label>
+  <CategoryMale.description>Female Colonists.</CategoryMale.description>
+
+  <CategoryPets.label>Pets</CategoryPets.label>
+  <CategoryPets.description>Pets.</CategoryPets.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CopyRestrictionLabel>コピー</CopyRestrictionLabel>
+  <CopyRestrictionDesc>制限設定をクリップボードにコピーします。</CopyRestrictionDesc>
+
+　<PasteRestrictionLabel>貼り付け</PasteRestrictionLabel>
+  <PasteRestrictionDesc>クリップボードの制限設定から設定をコピーします</PasteRestrictionDesc>
+</LanguageData>

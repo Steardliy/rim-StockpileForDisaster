@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EntityFilter_Male.label>allow Males</EntityFilter_Male.label>
+  <EntityFilter_Male.description>allow males.</EntityFilter_Male.description>
+
+  <EntityFilter_Female.label>allow Females</EntityFilter_Female.label>
+  <EntityFilter_Female.description>allow Female.</EntityFilter_Female.description>
+
+  <EntityFilter_Psychopath.label>allow Psychopaths</EntityFilter_Psychopath.label>
+  <EntityFilter_Psychopath.description>allow Psychopaths.</EntityFilter_Psychopath.description>
+
+  <EntityFilter_Cannibal.label>allow Cannibals</EntityFilter_Cannibal.label>
+  <EntityFilter_Cannibal.description>allow Cannibals.</EntityFilter_Cannibal.description>
+
+  <EntityFilter_Haulable.label>allow Haulables</EntityFilter_Haulable.label>
+  <EntityFilter_Haulable.description>Allow animals that can haul items.</EntityFilter_Haulable.description>
+
+  <EntityFilter_UnHaulable.label>allow UnHaulables</EntityFilter_UnHaulable.label>
+  <EntityFilter_UnHaulable.description>Allow animals that can't haul items.</EntityFilter_UnHaulable.description>
+
+  <EntityFilter_Colonist.label>allow Colonists</EntityFilter_Colonist.label>
+  <EntityFilter_Colonist.description>allow Colonists.</EntityFilter_Colonist.description>
+
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+  <ThingDef ParentName="RestrictedStorageBase">
+    <defName>RestrictedStorage</defName>
+    <label>Restricted storage</label>
+    <description>Anyone can carry items in this place, but not vice versa.</description>
+    <graphicData>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(3,2)</drawSize>
+      <texPath>Things/Building/Furniture/RestrictedStorage</texPath>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Mass>10</Mass>
+      <WorkToBuild>1150</WorkToBuild>
+      <Flammability>0.8</Flammability>
+    </statBases>
+    <size>(2,1)</size>
+  </ThingDef>
+
+  <ThingDef ParentName="RestrictedStorageBase">
+    <defName>RestrictedStorageSingle</defName>
+    <label>R-Storage single</label>
+    <description>Anyone can carry items in this place, but not vice versa.</description>
+    <graphicData>
+      <texPath>Things/Building/Furniture/RestrictedStorageSingle</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>75</MaxHitPoints>
+      <Mass>5</Mass>
+      <WorkToBuild>575</WorkToBuild>
+      <Flammability>0.8</Flammability>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+</Defs>

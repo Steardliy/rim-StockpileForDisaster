@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TypeOnlyRecieve.label>取得を許可</TypeOnlyRecieve.label>
+  <TypeOnlyRecieve.description>このチェックを有効にすると、制限設定は無視されます。</TypeOnlyRecieve.description>
+
+</LanguageData>

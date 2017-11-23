@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EntityFilter_Male.label>男性/雄を許可</EntityFilter_Male.label>
+  <EntityFilter_Male.description>人間の男性と動物の雄を許可します。</EntityFilter_Male.description>
+
+  <EntityFilter_Female.label>女性/雌を許可</EntityFilter_Female.label>
+  <EntityFilter_Female.description>人間の女性と動物の雌を許可します。</EntityFilter_Female.description>
+
+  <EntityFilter_Psychopath.label>サイコパスを許可</EntityFilter_Psychopath.label>
+  <EntityFilter_Psychopath.description>サイコパスの特徴を持つ人間を許可します。</EntityFilter_Psychopath.description>
+
+  <EntityFilter_Cannibal.label>食人嗜好者を許可</EntityFilter_Cannibal.label>
+  <EntityFilter_Cannibal.description>食人嗜好者の特徴を持つ人間を許可します。</EntityFilter_Cannibal.description>
+
+  <EntityFilter_Haulable.label>運搬可能な動物を許可</EntityFilter_Haulable.label>
+  <EntityFilter_Haulable.description>運搬能力を持つ動物を許可します。入植者は含まれません。</EntityFilter_Haulable.description>
+
+  <EntityFilter_UnHaulable.label>運搬不可能な動物を許可</EntityFilter_UnHaulable.label>
+  <EntityFilter_UnHaulable.description>運搬能力を持たない動物を許可します。入植者は含まれません。</EntityFilter_UnHaulable.description>
+
+  <EntityFilter_Colonist.label>入植者を許可</EntityFilter_Colonist.label>
+  <EntityFilter_Colonist.description>入植者を許可します。</EntityFilter_Colonist.description>
+
+</LanguageData>

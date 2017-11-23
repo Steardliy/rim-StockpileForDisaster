@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategorySquirrel</defName>
+    <!--<label>Squirrel</label>-->
+    <description>Squirrel.</description>
+    <childThingDefs>
+      <li>Squirrel</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryAlphabeaver</defName>
+    <!--<label>Alphabeaver</label>-->
+    <description>Alphabeaver.</description>
+    <childThingDefs>
+      <li>Alphabeaver</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryCapybara</defName>
+    <!--<label>Capybara</label>-->
+    <description>Capybara.</description>
+    <childThingDefs>
+      <li>Capybara</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryChinchilla</defName>
+    <!--<label>Chinchilla</label>-->
+    <description>Chinchilla.</description>
+    <childThingDefs>
+      <li>Chinchilla</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryBoomrat</defName>
+    <!--<label>Boomrat</label>-->
+    <description>Boomrat.</description>
+    <childThingDefs>
+      <li>Boomrat</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryRaccoon</defName>
+    <!--<label>Raccoon</label>-->
+    <description>Raccoon.</description>
+    <childThingDefs>
+      <li>Raccoon</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryRat</defName>
+    <!--<label>Rat</label>-->
+    <description>Rat.</description>
+    <childThingDefs>
+      <li>Rat</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+</Defs>

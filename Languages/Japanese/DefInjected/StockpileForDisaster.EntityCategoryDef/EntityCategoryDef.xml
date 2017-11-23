@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CategoryFemale.label>入植者（女性）</CategoryFemale.label>
+  <CategoryFemale.description>女性の入植者です。</CategoryFemale.description>
+
+  <CategoryMale.label>入植者（男性）</CategoryMale.label>
+  <CategoryMale.description>男性の入植者です。</CategoryMale.description>
+
+  <CategoryPets.label>ペット・家畜</CategoryPets.label>
+  <CategoryPets.description>コロニーに所属する動物です。野生動物は含まれません。</CategoryPets.description>
+
+</LanguageData>

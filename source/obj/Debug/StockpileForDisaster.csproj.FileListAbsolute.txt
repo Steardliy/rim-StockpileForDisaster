@@ -1,0 +1,22 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[A17]-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[A17]-StockpileForDisaster\source\bin\debug\StockpileForDisaster.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[A17]-StockpileForDisaster\source\bin\debug\StockpileForDisaster.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[A17]-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[A17]-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\modbackup\source\bin\debug\StockpileForDisaster.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\modbackup\source\bin\debug\StockpileForDisaster.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\modbackup\source\obj\Debug\StockpileForDisaster.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\modbackup\source\obj\Debug\StockpileForDisaster.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\modbackup\source\obj\Debug\StockpileForDisaster.pdb
+C:\githubLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\bin\debug\StockpileForDisaster.dll
+C:\githubLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\bin\debug\StockpileForDisaster.pdb
+C:\githubLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.csprojResolveAssemblyReference.cache
+C:\githubLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.dll
+C:\githubLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.pdb
+C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.csprojResolveAssemblyReference.cache
+C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.csproj.CoreCompileInputs.cache
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\debug\StockpileForDisaster.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\debug\StockpileForDisaster.pdb
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\debug\0Harmony.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.pdb

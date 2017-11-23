@@ -1,0 +1,16 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[A17]-StockpileForDisaster\source\bin\Release\StockpileForDisaster.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\modbackup\source\bin\Release\StockpileForDisaster.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\modbackup\source\obj\Release\StockpileForDisaster.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\modbackup\source\obj\Release\StockpileForDisaster.dll
+C:\githubLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csprojResolveAssemblyReference.cache
+C:\githubLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.dll
+C:\githubLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\bin\Release\StockpileForDisaster.dll
+C:\GitLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\bin\Release\StockpileForDisaster.dll
+C:\GitLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csprojResolveAssemblyReference.cache
+C:\GitLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\StockpileForDisaster.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\0Harmony.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csproj.CoreCompileInputs.cache
+C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Release\StockpileForDisaster.dll

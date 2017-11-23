@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+  
+  <ThingDef Name="RestrictedStorageBase" Abstract="True">
+    <thingClass>Building_Storage</thingClass>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>BuildingRubble</filthLeaving>
+    <defaultPlacingRot>South</defaultPlacingRot>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+      <li Class="StockpileForDisaster.EntityListCompDef">
+        <compClass>StockpileForDisaster.EntityListComp</compClass>
+        <listType>TypeOnlyRecieve</listType>
+        <nodeDef>RecieveRoot</nodeDef>
+        <canDisplayCategorys>
+          <li>CategoryMale</li>
+          <li>CategoryFemale</li>
+          <li>CategoryPets</li>
+        </canDisplayCategorys>
+      </li>
+    </comps>
+    <designationCategory>Furniture</designationCategory>
+    <minifiedDef>MinifiedFurniture</minifiedDef>
+    <category>Building</category>
+    <statBases>
+	  <SellPriceFactor>0.70</SellPriceFactor>
+	</statBases>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+    <fillPercent>0.4</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>30</costStuffCount>
+    <building>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <defaultStorageSettings>
+        <priority>Low</priority>
+        <filter>
+          <categories>
+            <li>Weapons</li>
+          </categories>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+    <inspectorTabs>
+      <li>ITab_Storage</li>
+      <li>StockpileForDisaster.ITab_Restrict</li>
+    </inspectorTabs>
+    <staticSunShadowHeight>0.5</staticSunShadowHeight>
+    <surfaceType>Item</surfaceType>
+    <canOverlapZones>false</canOverlapZones>
+  </ThingDef>
+  
+</Defs>

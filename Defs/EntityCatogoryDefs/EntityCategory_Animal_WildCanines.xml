@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryWarg</defName>
+    <!--<label>Warg</label>-->
+    <description>Warg.</description>
+    <childThingDefs>
+      <li>Warg</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryWolfTimber</defName>
+    <!--<label>WolfTimber</label>-->
+    <description>WolfTimber.</description>
+    <childThingDefs>
+      <li>WolfTimber</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryWolfArctic</defName>
+    <!--<label>WolfArctic</label>-->
+    <description>WolfArctic.</description>
+    <childThingDefs>
+      <li>WolfArctic</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryFoxFennec</defName>
+    <!--<label>FoxFennec</label>-->
+    <description>FoxFennec.</description>
+    <childThingDefs>
+      <li>FoxFennec</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryFoxRed</defName>
+    <!--<label>FoxRed</label>-->
+    <description>FoxRed.</description>
+    <childThingDefs>
+      <li>FoxRed</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryFoxArctic</defName>
+    <!--<label>FoxArctic</label>-->
+    <description>FoxArctic.</description>
+    <childThingDefs>
+      <li>FoxArctic</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+</Defs>

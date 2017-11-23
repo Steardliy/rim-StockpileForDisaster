@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryMuffalo</defName>
+    <!--<label>Muffalo</label>-->
+    <description>Muffalo.</description>
+    <childThingDefs>
+      <li>Muffalo</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+  
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryGazelle</defName>
+    <!--<label>Gazelle</label>-->
+    <description>Gazelle.</description>
+    <childThingDefs>
+      <li>Gazelle</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryIguana</defName>
+    <!--<label>Iguana</label>-->
+    <description>Iguana.</description>
+    <childThingDefs>
+      <li>Iguana</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryRhinoceros</defName>
+    <!--<label>Rhinoceros</label>-->
+    <description>Rhinoceros.</description>
+    <childThingDefs>
+      <li>Rhinoceros</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryDromedary</defName>
+    <!--<label>Dromedary</label>-->
+    <description>Dromedary.</description>
+    <childThingDefs>
+      <li>Dromedary</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+</Defs>

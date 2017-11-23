@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryYorkshireTerrier</defName>
+    <!--<label>YorkshireTerrier</label>-->
+    <description>YorkshireTerrier.</description>
+    <childThingDefs>
+      <li>YorkshireTerrier</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryHusky</defName>
+    <!--<label>Husky</label>-->
+    <description>Husky.</description>
+    <childThingDefs>
+      <li>Husky</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryLabradorRetriever</defName>
+    <!--<label>LabradorRetriever</label>-->
+    <description>LabradorRetriever.</description>
+    <childThingDefs>
+      <li>LabradorRetriever</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryCat</defName>
+    <!--<label>Cat</label>-->
+    <description>Cat.</description>
+    <childThingDefs>
+      <li>Cat</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+</Defs>

@@ -1,0 +1,331 @@
+
+  <CategoryMuffalo.label>マッファロー</CategoryMuffalo.label>
+  <CategoryMuffalo.description>Muffalo.</CategoryMuffalo.description>
+  
+  <CategoryGazelle.label>ガゼル</CategoryGazelle.label>
+  <CategoryGazelle.description>Gazelle.</CategoryGazelle.description>
+  
+  <CategoryIguana.label>イグアナ</CategoryIguana.label>
+  <CategoryIguana.description>Iguana.</CategoryIguana.description>
+  
+  <CategoryRhinoceros.label>サイ</CategoryRhinoceros.label>
+  <CategoryRhinoceros.description>Rhinoceros.</CategoryRhinoceros.description>
+  
+  <CategoryDromedary.label>ヒトコブラクダ</CategoryDromedary.label>
+  <CategoryDromedary.description>Dromedary.</CategoryDromedary.description>
+  
+  <CategoryGrizzlyBear.label>グリズリー</CategoryGrizzlyBear.label>
+  <CategoryGrizzlyBear.description>GrizzlyBear.</CategoryGrizzlyBear.description>
+  
+  <CategoryPolarBear.label>ホッキョクグマ</CategoryPolarBear.label>
+  <CategoryPolarBear.description>PolarBear.</CategoryPolarBear.description>
+  
+  <CategoryCougar.label>クーガー</CategoryCougar.label>
+  <CategoryCougar.description>Cougar.</CategoryCougar.description>
+
+  <CategoryPanther.label>パンサー</CategoryPanther.label>
+  <CategoryPanther.description>Panther.</CategoryPanther.description>
+  
+  <CategoryLynx.label>ヤマネコ</CategoryLynx.label>
+  <CategoryLynx.description>Lynx.</CategoryLynx.description>
+
+  <CategoryCassowary.label>ヒクイドリ</CategoryCassowary.label>
+  <CategoryCassowary.description>Cassowary.</CategoryCassowary.description>
+
+  <CategoryEmu.label>エミュー</CategoryEmu.label>
+  <CategoryEmu.description>Emu.</CategoryEmu.description>
+
+  <CategoryOstrich.label>ダチョウ</CategoryOstrich.label>
+  <CategoryOstrich.description>Ostrich.</CategoryOstrich.description>
+
+  <CategoryTurkey.label>シチメンチョウ</CategoryTurkey.label>
+  <CategoryTurkey.description>Turkey.</CategoryTurkey.description>
+
+  <CategoryChicken.label>ニワトリ</CategoryChicken.label>
+  <CategoryChicken.description>Chicken.</CategoryChicken.description>
+
+  <CategoryPig.label>ブタ</CategoryPig.label>
+  <CategoryPig.description>Pig.</CategoryPig.description>
+
+  <CategoryCow.label>ウシ</CategoryCow.label>
+  <CategoryCow.description>Cow.</CategoryCow.description>
+
+  <CategoryAlpaca.label>アルパカ</CategoryAlpaca.label>
+  <CategoryAlpaca.description>Alpaca.</CategoryAlpaca.description>
+
+  <CategoryElephant.label>ゾウ</CategoryElephant.label>
+  <CategoryElephant.description>Elephant.</CategoryElephant.description>
+
+  <CategoryMegasloth.label>メガスロス</CategoryMegasloth.label>
+  <CategoryMegasloth.description>Megasloth.</CategoryMegasloth.description>
+
+  <CategoryThrumbo.label>スランボ</CategoryThrumbo.label>
+  <CategoryThrumbo.description>Thrumbo.</CategoryThrumbo.description>
+
+  <CategoryHare.label>ノウサギ</CategoryHare.label>
+  <CategoryHare.description>Hare.</CategoryHare.description>
+
+  <CategorySnowhare.label>ユキウサギ</CategorySnowhare.label>
+  <CategorySnowhare.description>Snowhare.</CategorySnowhare.description>
+
+  <CategoryMegascarab.label>メガスカラベ</CategoryMegascarab.label>
+  <CategoryMegascarab.description>Megascarab.</CategoryMegascarab.description>
+
+  <CategorySpelopede.label>スペロピード</CategorySpelopede.label>
+  <CategorySpelopede.description>Spelopede.</CategorySpelopede.description>
+
+  <CategoryMegaspider.label>メガスパイダー</CategoryMegaspider.label>
+  <CategoryMegaspider.description>Megaspider.</CategoryMegaspider.description>
+
+  <CategoryMechanoid_Centipede.label>機械化ムカデ</CategoryMechanoid_Centipede.label>
+  <CategoryMechanoid_Centipede.description>Mechanoid_Centipede.</CategoryMechanoid_Centipede.description>
+
+  <CategoryMechanoid_Scyther.label>機械化カマキリ</CategoryMechanoid_Scyther.label>
+  <CategoryMechanoid_Scyther.description>Mechanoid_Scyther.</CategoryMechanoid_Scyther.description>
+
+  <CategoryYorkshireTerrier.label>ヨークシャーテリア</CategoryYorkshireTerrier.label>
+  <CategoryYorkshireTerrier.description>YorkshireTerrier.</CategoryYorkshireTerrier.description>
+
+  <CategoryHusky.label>ハスキー</CategoryHusky.label>
+  <CategoryHusky.description>Husky.</CategoryHusky.description>
+
+  <CategoryLabradorRetriever.label>ラブラドールリトリーバー</CategoryLabradorRetriever.label>
+  <CategoryLabradorRetriever.description>LabradorRetriever.</CategoryLabradorRetriever.description>
+
+  <CategoryCat.label>ネコ</CategoryCat.label>
+  <CategoryCat.description>Cat.</CategoryCat.description>
+
+  <CategorySquirrel.label>リス</CategorySquirrel.label>
+  <CategorySquirrel.description>Squirrel.</CategorySquirrel.description>
+
+  <CategoryAlphabeaver.label>アルファビーバー</CategoryAlphabeaver.label>
+  <CategoryAlphabeaver.description>Alphabeaver.</CategoryAlphabeaver.description>
+
+  <CategoryCapybara.label>カピバラ</CategoryCapybara.label>
+  <CategoryCapybara.description>Capybara.</CategoryCapybara.description>
+
+  <CategoryChinchilla.label>チンチラ</CategoryChinchilla.label>
+  <CategoryChinchilla.description>Chinchilla.</CategoryChinchilla.description>
+
+  <CategoryBoomrat.label>ボムネズミ</CategoryBoomrat.label>
+  <CategoryBoomrat.description>Boomrat.</CategoryBoomrat.description>
+
+  <CategoryRaccoon.label>アライグマ</CategoryRaccoon.label>
+  <CategoryRaccoon.description>Raccoon.</CategoryRaccoon.description>
+
+  <CategoryRat.label>ネズミ</CategoryRat.label>
+  <CategoryRat.description>Rat.</CategoryRat.description>
+
+  <CategoryDeer.label>シカ</CategoryDeer.label>
+  <CategoryDeer.description>Deer.</CategoryDeer.description>
+
+  <CategoryIbex.label>アイベックス</CategoryIbex.label>
+  <CategoryIbex.description>Ibex.</CategoryIbex.description>
+
+  <CategoryElk.label>ヘラジカ</CategoryElk.label>
+  <CategoryElk.description>Elk.</CategoryElk.description>
+
+  <CategoryCaribou.label>カリブー</CategoryCaribou.label>
+  <CategoryCaribou.description>Caribou.</CategoryCaribou.description>
+
+  <CategoryWildBoar.label>イノシシ</CategoryWildBoar.label>
+  <CategoryWildBoar.description>WildBoar.</CategoryWildBoar.description>
+
+  <CategoryTortoise.label>カメ</CategoryTortoise.label>
+  <CategoryTortoise.description>Tortoise.</CategoryTortoise.description>
+
+  <CategoryCobra.label>コブラ</CategoryCobra.label>
+  <CategoryCobra.description>Cobra.</CategoryCobra.description>
+
+  <CategoryMonkey.label>サル</CategoryMonkey.label>
+  <CategoryMonkey.description>Monkey.</CategoryMonkey.description>
+
+  <CategoryBoomalope.label>ボマロープ</CategoryBoomalope.label>
+  <CategoryBoomalope.description>Boomalope.</CategoryBoomalope.description>
+
+  <CategoryWarg.label>ワーグ</CategoryWarg.label>
+  <CategoryWarg.description>Warg.</CategoryWarg.description>
+
+  <CategoryWolfTimber.label>シンリンオオカミ</CategoryWolfTimber.label>
+  <CategoryWolfTimber.description>WolfTimber.</CategoryWolfTimber.description>
+
+  <CategoryWolfArctic.label>ホッキョクオオカミ</CategoryWolfArctic.label>
+  <CategoryWolfArctic.description>WolfArctic.</CategoryWolfArctic.description>
+
+  <CategoryFoxFennec.label>フェネックキツネ</CategoryFoxFennec.label>
+  <CategoryFoxFennec.description>FoxFennec.</CategoryFoxFennec.description>
+
+  <CategoryFoxRed.label>アカギツネ</CategoryFoxRed.label>
+  <CategoryFoxRed.description>FoxRed.</CategoryFoxRed.description>
+
+  <CategoryFoxArctic.label>ホッキョクギツネ</CategoryFoxArctic.label>
+  <CategoryFoxArctic.description>FoxArctic.</CategoryFoxArctic.description>
+
+
+
+
+
+
+
+  
+  <CategoryMuffalo.label>Muffalo</CategoryMuffalo.label>
+  <CategoryMuffalo.description>Muffalo.</CategoryMuffalo.description>
+  
+  <CategoryGazelle.label>Gazelle</CategoryGazelle.label>
+  <CategoryGazelle.description>Gazelle.</CategoryGazelle.description>
+  
+  <CategoryIguana.label>Iguana</CategoryIguana.label>
+  <CategoryIguana.description>Iguana.</CategoryIguana.description>
+  
+  <CategoryRhinoceros.label>Rhinoceros</CategoryRhinoceros.label>
+  <CategoryRhinoceros.description>Rhinoceros.</CategoryRhinoceros.description>
+  
+  <CategoryDromedary.label>Dromedary</CategoryDromedary.label>
+  <CategoryDromedary.description>Dromedary.</CategoryDromedary.description>
+  
+  <CategoryGrizzlyBear.label>GrizzlyBear</CategoryGrizzlyBear.label>
+  <CategoryGrizzlyBear.description>GrizzlyBear.</CategoryGrizzlyBear.description>
+  
+  <CategoryPolarBear.label>PolarBear</CategoryPolarBear.label>
+  <CategoryPolarBear.description>PolarBear.</CategoryPolarBear.description>
+  
+  <CategoryCougar.label>Cougar</CategoryCougar.label>
+  <CategoryCougar.description>Cougar.</CategoryCougar.description>
+
+  <CategoryPanther.label>Panther</CategoryPanther.label>
+  <CategoryPanther.description>Panther.</CategoryPanther.description>
+  
+  <CategoryLynx.label>Lynx</CategoryLynx.label>
+  <CategoryLynx.description>Lynx.</CategoryLynx.description>
+
+  <CategoryCassowary.label>Cassowary</CategoryCassowary.label>
+  <CategoryCassowary.description>Cassowary.</CategoryCassowary.description>
+
+  <CategoryEmu.label>Emu</CategoryEmu.label>
+  <CategoryEmu.description>Emu.</CategoryEmu.description>
+
+  <CategoryOstrich.label>Ostrich</CategoryOstrich.label>
+  <CategoryOstrich.description>Ostrich.</CategoryOstrich.description>
+
+  <CategoryTurkey.label>Turkey</CategoryTurkey.label>
+  <CategoryTurkey.description>Turkey.</CategoryTurkey.description>
+
+  <CategoryChicken.label>Chicken</CategoryChicken.label>
+  <CategoryChicken.description>Chicken.</CategoryChicken.description>
+
+  <CategoryPig.label>Pig</CategoryPig.label>
+  <CategoryPig.description>Pig.</CategoryPig.description>
+
+  <CategoryCow.label>Cow</CategoryCow.label>
+  <CategoryCow.description>Cow.</CategoryCow.description>
+
+  <CategoryAlpaca.label>Alpaca</CategoryAlpaca.label>
+  <CategoryAlpaca.description>Alpaca.</CategoryAlpaca.description>
+
+  <CategoryElephant.label>Elephant</CategoryElephant.label>
+  <CategoryElephant.description>Elephant.</CategoryElephant.description>
+
+  <CategoryMegasloth.label>Megasloth</CategoryMegasloth.label>
+  <CategoryMegasloth.description>Megasloth.</CategoryMegasloth.description>
+
+  <CategoryThrumbo.label>Thrumbo</CategoryThrumbo.label>
+  <CategoryThrumbo.description>Thrumbo.</CategoryThrumbo.description>
+
+  <CategoryHare.label>Hare</CategoryHare.label>
+  <CategoryHare.description>Hare.</CategoryHare.description>
+
+  <CategorySnowhare.label>Snowhare</CategorySnowhare.label>
+  <CategorySnowhare.description>Snowhare.</CategorySnowhare.description>
+
+  <CategoryMegascarab.label>Megascarab</CategoryMegascarab.label>
+  <CategoryMegascarab.description>Megascarab.</CategoryMegascarab.description>
+
+  <CategorySpelopede.label>Spelopede</CategorySpelopede.label>
+  <CategorySpelopede.description>Spelopede.</CategorySpelopede.description>
+
+  <CategoryMegaspider.label>Megaspider</CategoryMegaspider.label>
+  <CategoryMegaspider.description>Megaspider.</CategoryMegaspider.description>
+
+  <CategoryMechanoid_Centipede.label>Mechanoid_Centipede</CategoryMechanoid_Centipede.label>
+  <CategoryMechanoid_Centipede.description>Mechanoid_Centipede.</CategoryMechanoid_Centipede.description>
+
+  <CategoryMechanoid_Scyther.label>Mechanoid_Scyther</CategoryMechanoid_Scyther.label>
+  <CategoryMechanoid_Scyther.description>Mechanoid_Scyther.</CategoryMechanoid_Scyther.description>
+
+  <CategoryYorkshireTerrier.label>YorkshireTerrier</CategoryYorkshireTerrier.label>
+  <CategoryYorkshireTerrier.description>YorkshireTerrier.</CategoryYorkshireTerrier.description>
+
+  <CategoryHusky.label>Husky</CategoryHusky.label>
+  <CategoryHusky.description>Husky.</CategoryHusky.description>
+
+  <CategoryLabradorRetriever.label>LabradorRetriever</CategoryLabradorRetriever.label>
+  <CategoryLabradorRetriever.description>LabradorRetriever.</CategoryLabradorRetriever.description>
+
+  <CategoryCat.label>Cat</CategoryCat.label>
+  <CategoryCat.description>Cat.</CategoryCat.description>
+
+  <CategorySquirrel.label>Squirrel</CategorySquirrel.label>
+  <CategorySquirrel.description>Squirrel.</CategorySquirrel.description>
+
+  <CategoryAlphabeaver.label>Alphabeaver</CategoryAlphabeaver.label>
+  <CategoryAlphabeaver.description>Alphabeaver.</CategoryAlphabeaver.description>
+
+  <CategoryCapybara.label>Capybara</CategoryCapybara.label>
+  <CategoryCapybara.description>Capybara.</CategoryCapybara.description>
+
+  <CategoryChinchilla.label>Chinchilla</CategoryChinchilla.label>
+  <CategoryChinchilla.description>Chinchilla.</CategoryChinchilla.description>
+
+  <CategoryBoomrat.label>Boomrat</CategoryBoomrat.label>
+  <CategoryBoomrat.description>Boomrat.</CategoryBoomrat.description>
+
+  <CategoryRaccoon.label>Raccoon</CategoryRaccoon.label>
+  <CategoryRaccoon.description>Raccoon.</CategoryRaccoon.description>
+
+  <CategoryRat.label>Rat</CategoryRat.label>
+  <CategoryRat.description>Rat.</CategoryRat.description>
+
+  <CategoryDeer.label>Deer</CategoryDeer.label>
+  <CategoryDeer.description>Deer.</CategoryDeer.description>
+
+  <CategoryIbex.label>Ibex</CategoryIbex.label>
+  <CategoryIbex.description>Ibex.</CategoryIbex.description>
+
+  <CategoryElk.label>Elk</CategoryElk.label>
+  <CategoryElk.description>Elk.</CategoryElk.description>
+
+  <CategoryCaribou.label>Caribou</CategoryCaribou.label>
+  <CategoryCaribou.description>Caribou.</CategoryCaribou.description>
+
+  <CategoryWildBoar.label>WildBoar</CategoryWildBoar.label>
+  <CategoryWildBoar.description>WildBoar.</CategoryWildBoar.description>
+
+  <CategoryTortoise.label>Tortoise</CategoryTortoise.label>
+  <CategoryTortoise.description>Tortoise.</CategoryTortoise.description>
+
+  <CategoryCobra.label>Cobra</CategoryCobra.label>
+  <CategoryCobra.description>Cobra.</CategoryCobra.description>
+
+  <CategoryMonkey.label>Monkey</CategoryMonkey.label>
+  <CategoryMonkey.description>Monkey.</CategoryMonkey.description>
+
+  <CategoryBoomalope.label>Boomalope</CategoryBoomalope.label>
+  <CategoryBoomalope.description>Boomalope.</CategoryBoomalope.description>
+
+  <CategoryWarg.label>Warg</CategoryWarg.label>
+  <CategoryWarg.description>Warg.</CategoryWarg.description>
+
+  <CategoryWolfTimber.label>WolfTimber</CategoryWolfTimber.label>
+  <CategoryWolfTimber.description>WolfTimber.</CategoryWolfTimber.description>
+
+  <CategoryWolfArctic.label>WolfArctic</CategoryWolfArctic.label>
+  <CategoryWolfArctic.description>WolfArctic.</CategoryWolfArctic.description>
+
+  <CategoryFoxFennec.label>FoxFennec</CategoryFoxFennec.label>
+  <CategoryFoxFennec.description>FoxFennec.</CategoryFoxFennec.description>
+
+  <CategoryFoxRed.label>FoxRed</CategoryFoxRed.label>
+  <CategoryFoxRed.description>FoxRed.</CategoryFoxRed.description>
+
+  <CategoryFoxArctic.label>FoxArctic</CategoryFoxArctic.label>
+  <CategoryFoxArctic.description>FoxArctic.</CategoryFoxArctic.description>

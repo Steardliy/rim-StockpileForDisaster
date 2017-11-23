@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+  <StockpileForDisaster.SpecialEntityFilterDef>
+    <defName>EntityFilter_Male</defName>
+    <label>allow Males</label>
+    <description>Allow males.</description>
+    <workerClass>StockpileForDisaster.SpecialThingFilterWorker_Male</workerClass>
+  </StockpileForDisaster.SpecialEntityFilterDef>
+  
+  <StockpileForDisaster.SpecialEntityFilterDef>
+    <defName>EntityFilter_Female</defName>
+    <label>allow Females</label>
+    <description>Allow Female.</description>
+    <workerClass>StockpileForDisaster.SpecialThingFilterWorker_Female</workerClass>
+  </StockpileForDisaster.SpecialEntityFilterDef>
+
+  <StockpileForDisaster.SpecialEntityFilterDef>
+    <defName>EntityFilter_Psychopath</defName>
+    <label>allow Psychopaths</label>
+    <description>Allow Psychopaths.</description>
+    <workerClass>StockpileForDisaster.SpecialThingFilterWorker_Psychopath</workerClass>
+  </StockpileForDisaster.SpecialEntityFilterDef>
+
+  <StockpileForDisaster.SpecialEntityFilterDef>
+    <defName>EntityFilter_Cannibal</defName>
+    <label>allow Cannibals</label>
+    <description>Allow Cannibals.</description>
+    <workerClass>StockpileForDisaster.SpecialThingFilterWorker_Cannibal</workerClass>
+  </StockpileForDisaster.SpecialEntityFilterDef>
+
+  <StockpileForDisaster.SpecialEntityFilterDef>
+    <defName>EntityFilter_Haulable</defName>
+    <label>allow Haulables</label>
+    <description>Allow animals that can haul items.</description>
+    <workerClass>StockpileForDisaster.SpecialThingFilterWorker_Haulable</workerClass>
+  </StockpileForDisaster.SpecialEntityFilterDef>
+
+  <StockpileForDisaster.SpecialEntityFilterDef>
+    <defName>EntityFilter_UnHaulable</defName>
+    <label>allow UnHaulables</label>
+    <description>Allow animals that can't haul items.</description>
+    <workerClass>StockpileForDisaster.SpecialThingFilterWorker_UnHaulable</workerClass>
+  </StockpileForDisaster.SpecialEntityFilterDef>
+
+  <StockpileForDisaster.SpecialEntityFilterDef>
+    <defName>EntityFilter_Colonist</defName>
+    <label>allow Colonists</label>
+    <description>allow Colonists</description>
+    <workerClass>StockpileForDisaster.SpecialThingFilterWorker_Colonist</workerClass>
+  </StockpileForDisaster.SpecialEntityFilterDef>
+</Defs>

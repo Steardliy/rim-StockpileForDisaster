@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48926836-95BA-4C99-B578-F397839627B0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StockpileForDisaster</RootNamespace>
+    <AssemblyName>StockpileForDisaster</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\rim-A17-BetterCopyBuilding\Assemblies\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\..\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Harmony\HarmonyPatches.cs" />
+    <Compile Include="MapComp\IRescriction.cs" />
+    <Compile Include="ITab\Categorize\EntityCategoryDef.cs" />
+    <Compile Include="ITab\Comp\EntityFilter.cs" />
+    <Compile Include="ITab\Comp\EntityListComp.cs" />
+    <Compile Include="Debug\DebugLog.cs" />
+    <Compile Include="ITab\Categorize\EntityCategory.cs" />
+    <Compile Include="ITab\Categorize\CategoryNodeDef.cs" />
+    <Compile Include="ITab\Comp\EntityListCompDef.cs" />
+    <Compile Include="ITab\Categorize\EntityCategoryPrisetDef.cs" />
+    <Compile Include="ITab\Comp\EntityListCompTypeDef.cs" />
+    <Compile Include="ITab\SpecialThingFilter\Workers\SpecialThingFilterWorker_UnHaulable.cs" />
+    <Compile Include="ITab\SpecialThingFilter\Workers\SpecialThingFilterWorker_Haulable.cs" />
+    <Compile Include="ITab\SpecialThingFilter\Workers\SpecialThingFilterWorker_Player.cs" />
+    <Compile Include="ITab\SpecialThingFilter\Workers\SpecialThingFilterWorker_Cannibal.cs" />
+    <Compile Include="ITab\SpecialThingFilter\Workers\SpecialThingFilterWorker_PackAnimal.cs" />
+    <Compile Include="ITab\SpecialThingFilter\Workers\SpecialThingFilterWorker_Psychopath.cs" />
+    <Compile Include="ITab\UI\Listing_EntityListUI.cs" />
+    <Compile Include="ITab\ITab_Restrict.cs" />
+    <Compile Include="ITab\ITab_RestrictDef.cs" />
+    <Compile Include="ITab\SpecialThingFilter\SpecialEntityFilterDef.cs" />
+    <Compile Include="ITab\SpecialThingFilter\Workers\SpecialThingFilterWorker_Colonist.cs" />
+    <Compile Include="ITab\SpecialThingFilter\Workers\SpecialThingFilterWorker_Female.cs" />
+    <Compile Include="ITab\SpecialThingFilter\Workers\SpecialThingFilterWorker_Male.cs" />
+    <Compile Include="ITab\UI\TabRestrictUI.cs" />
+    <Compile Include="ITab\Comp\IEntityFilter.cs" />
+    <Compile Include="MapComp\RestrictedEntityManager.cs" />
+    <Compile Include="Misc\CopyPasteRestrictionSetting.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

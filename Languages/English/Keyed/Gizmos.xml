@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CopyRestrictionLabel>Copy</CopyRestrictionLabel>
+  <CopyRestrictionDesc>Restriction settings are copied to clipboard.</CopyRestrictionDesc>
+
+　<PasteRestrictionLabel>Paste</PasteRestrictionLabel>
+  <PasteRestrictionDesc>Copy restriction settings from clipboard.</PasteRestrictionDesc>
+</LanguageData>

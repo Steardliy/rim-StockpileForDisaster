@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryMechanoid_Centipede</defName>
+    <!--<label>Mechanoid_Centipede</label>-->
+    <description>Mechanoid_Centipede.</description>
+    <childThingDefs>
+      <li>Mechanoid_Centipede</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryMechanoid_Scyther</defName>
+    <!--<label>Mechanoid_Scyther</label>-->
+    <description>Mechanoid_Scyther.</description>
+    <childThingDefs>
+      <li>Mechanoid_Scyther</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+</Defs>

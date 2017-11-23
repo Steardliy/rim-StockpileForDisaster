@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+<!-- Root categories===================================================== -->
+
+  <StockpileForDisaster.EntityCategoryDef>
+    <defName>CategoryFemale</defName>
+    <label>Colonists(Female)</label>
+    <description>Colonists.</description>
+    <childThingDefs>
+      <li>Human</li>
+    </childThingDefs>
+    <workerClass>
+      <li>StockpileForDisaster.SpecialThingFilterWorker_Colonist</li>
+      <li>StockpileForDisaster.SpecialThingFilterWorker_Female</li>
+    </workerClass>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef>
+    <defName>CategoryMale</defName>
+    <label>Colonists(Male)</label>
+    <description>Colonists.</description>
+    <childThingDefs>
+      <li>Human</li>
+    </childThingDefs>
+    <workerClass>
+      <li>StockpileForDisaster.SpecialThingFilterWorker_Colonist</li>
+      <li>StockpileForDisaster.SpecialThingFilterWorker_Male</li>
+    </workerClass>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef>
+    <defName>CategoryPets</defName>
+    <label>Pets</label>
+    <description>Pets.</description>
+    <childThingDefs>
+      <li>Chicken</li>
+      <li>Pig</li>
+    </childThingDefs>
+    <childSpecialEntityFilters>
+      <li>EntityFilter_Haulable</li>
+      <li>EntityFilter_UnHaulable</li>
+    </childSpecialEntityFilters>
+    <workerClass>
+      <li>StockpileForDisaster.SpecialThingFilterWorker_Player</li>
+    </workerClass>
+  </StockpileForDisaster.EntityCategoryDef>
+
+
+<!-- Animal categories Base===================================================== -->
+
+  <StockpileForDisaster.EntityCategoryDef Name="PetsCategoryBase" Abstract="true">
+    <parent>CategoryPets</parent>
+    <workerClass>
+      <li>StockpileForDisaster.SpecialThingFilterWorker_Player</li>
+    </workerClass>
+  </StockpileForDisaster.EntityCategoryDef>
+
+</Defs>

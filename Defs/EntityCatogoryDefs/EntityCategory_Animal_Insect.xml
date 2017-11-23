@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryMegascarab</defName>
+    <!--<label>Megascarab</label>-->
+    <description>Megascarab.</description>
+    <childThingDefs>
+      <li>Megascarab</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategorySpelopede</defName>
+    <!--<label>Spelopede</label>-->
+    <description>Spelopede.</description>
+    <childThingDefs>
+      <li>Spelopede</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+  <StockpileForDisaster.EntityCategoryDef ParentName="PetsCategoryBase">
+    <defName>CategoryMegaspider</defName>
+    <!--<label>Megaspider</label>-->
+    <description>Megaspider.</description>
+    <childThingDefs>
+      <li>Megaspider</li>
+    </childThingDefs>
+  </StockpileForDisaster.EntityCategoryDef>
+
+</Defs>
