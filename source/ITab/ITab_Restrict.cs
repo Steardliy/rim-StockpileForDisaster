@@ -17,7 +17,7 @@ namespace StockpileForDisaster
             {
                 tabDef = DefDatabase<ITab_RestrictDef>.GetNamed("tabSettings");
                 this.size = new Vector2(tabDef.areaSize.x, tabDef.areaSize.y);
-                this.labelKey = "ITabRestrict".Translate();
+                this.labelKey = "ITabRestrict";
                 this.tutorTag = "Restrict";
             });
         }

@@ -31,7 +31,7 @@ namespace StockpileForDisaster.Harmony
                     return;
                 }
 #if DEBUG
-                Log.Message(DebugLog.GetMethodName(2) + MethodBase.GetCurrentMethod().Name + " actor:" + actor.NameStringShort);
+                Log.Message(DebugLog.GetMethodName(2) + MethodBase.GetCurrentMethod().Name + " actor:" + actor.Name.ToStringShort);
 #endif
                 RestrictedEntityManager manager = actor.Map.GetComponent<RestrictedEntityManager>();
                 manager.StartForbiddenSection(actor);

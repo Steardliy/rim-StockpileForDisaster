@@ -11,6 +11,6 @@ C:\GitLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\bin\R
 C:\GitLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csprojResolveAssemblyReference.cache
 C:\GitLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.dll
 C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\StockpileForDisaster.dll
-C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\0Harmony.dll
 C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csproj.CoreCompileInputs.cache
 C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Release\StockpileForDisaster.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csprojResolveAssemblyReference.cache
