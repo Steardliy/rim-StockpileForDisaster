@@ -11,6 +11,13 @@ C:\GitLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\bin\R
 C:\GitLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csprojResolveAssemblyReference.cache
 C:\GitLocal\rim-A17-StockpileForDisaster\[A17]-StockpileForDisaster\source\obj\Release\StockpileForDisaster.dll
 C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\StockpileForDisaster.dll
-C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\0Harmony.dll
 C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csproj.CoreCompileInputs.cache
 C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Release\StockpileForDisaster.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\Assembly-CSharp.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\UnityEngine.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\TextMeshPro-1.0.55.56.0b11.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\Assembly-CSharp-firstpass.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\NAudio.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\NVorbis.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\Release\UnityEngine.UI.dll
+C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Release\StockpileForDisaster.csprojResolveAssemblyReference.cache

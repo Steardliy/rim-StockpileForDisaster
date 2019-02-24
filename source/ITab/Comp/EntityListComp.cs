@@ -56,7 +56,7 @@ namespace StockpileForDisaster
                 a.childThings = new List<Thing>();
                 foreach (var b in a.catDef.childThingDefs)
                 {
-                    a.childThings.AddRange(Find.VisibleMap.listerThings.ThingsOfDef(b));
+                    a.childThings.AddRange(Find.CurrentMap.listerThings.ThingsOfDef(b));
 #if DEBUG
                     Log.Message(DebugLog.GetMethodName() + "Found Things.Count=" + a.childThings.Count);
 #endif

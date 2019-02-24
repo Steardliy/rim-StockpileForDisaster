@@ -17,6 +17,5 @@ C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.c
 C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.csproj.CoreCompileInputs.cache
 C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\debug\StockpileForDisaster.dll
 C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\debug\StockpileForDisaster.pdb
-C:\GitLocal\rim-B18-StockpileForDisaster\source\bin\debug\0Harmony.dll
 C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.dll
 C:\GitLocal\rim-B18-StockpileForDisaster\source\obj\Debug\StockpileForDisaster.pdb

@@ -16,7 +16,7 @@
     <!--<label>WolfTimber</label>-->
     <description>WolfTimber.</description>
     <childThingDefs>
-      <li>WolfTimber</li>
+      <li>Wolf_Timber</li>
     </childThingDefs>
   </StockpileForDisaster.EntityCategoryDef>
 
@@ -25,7 +25,7 @@
     <!--<label>WolfArctic</label>-->
     <description>WolfArctic.</description>
     <childThingDefs>
-      <li>WolfArctic</li>
+      <li>Wolf_Arctic</li>
     </childThingDefs>
   </StockpileForDisaster.EntityCategoryDef>
 
@@ -34,7 +34,7 @@
     <!--<label>FoxFennec</label>-->
     <description>FoxFennec.</description>
     <childThingDefs>
-      <li>FoxFennec</li>
+      <li>Fox_Fennec</li>
     </childThingDefs>
   </StockpileForDisaster.EntityCategoryDef>
 
@@ -43,7 +43,7 @@
     <!--<label>FoxRed</label>-->
     <description>FoxRed.</description>
     <childThingDefs>
-      <li>FoxRed</li>
+      <li>Fox_Red</li>
     </childThingDefs>
   </StockpileForDisaster.EntityCategoryDef>
 
@@ -52,7 +52,7 @@
     <!--<label>FoxArctic</label>-->
     <description>FoxArctic.</description>
     <childThingDefs>
-      <li>FoxArctic</li>
+      <li>Fox_Arctic</li>
     </childThingDefs>
   </StockpileForDisaster.EntityCategoryDef>
 </Defs>

@@ -107,7 +107,7 @@
   
   
   <!-- Storage Solutions/////////////////////////////////// -->
-  <Operation Class="PatchOperationSequence">
+  <!-- <Operation Class="PatchOperationSequence">
     <success>Always</success>
     <operations>
       <li Class="PatchOperationTest">
@@ -386,5 +386,5 @@
         <value><li>StockpileForDisaster.ITab_Restrict</li></value>
       </li>
     </operations>
-  </Operation>
+  </Operation> -->
 </Patch>

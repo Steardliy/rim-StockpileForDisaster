@@ -54,8 +54,8 @@ namespace StockpileForDisaster
             base.OpenCloseWidget(node, indentLevel, openMask);
             base.LabelLeft(node.LabelCap, node.Description, indentLevel);
             MultiCheckboxState multiCheckboxState = this.AllowanceStateOf(node);
-            if (Widgets.CheckboxMulti(new Vector2(this.LabelWidth, this.curY), multiCheckboxState, this.lineHeight))
-            {
+            MultiCheckboxState multiCheckboxState2 = Widgets.CheckboxMulti(new Rect(this.LabelWidth, this.curY, this.lineHeight, this.lineHeight), multiCheckboxState, true);
+            if (multiCheckboxState != multiCheckboxState2) {
                 bool allow = multiCheckboxState == MultiCheckboxState.Off;
                 foreach(var thing in node.DescendantThings)
                 {
@@ -74,7 +74,7 @@ namespace StockpileForDisaster
         }
         private void DoThing(Thing thing, int indentLevel)
         {
-            base.LabelLeft(thing.LabelCap, thing.GetDescription(), indentLevel);
+            base.LabelLeft(thing.LabelCap, thing.DescriptionDetailed, indentLevel);
             
             bool flag = this.filter.IsAllowed(thing);
             bool flag2 = flag;

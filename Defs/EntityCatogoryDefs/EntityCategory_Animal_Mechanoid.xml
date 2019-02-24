@@ -7,7 +7,7 @@
     <!--<label>Mechanoid_Centipede</label>-->
     <description>Mechanoid_Centipede.</description>
     <childThingDefs>
-      <li>Mechanoid_Centipede</li>
+      <li>Mech_Centipede</li>
     </childThingDefs>
   </StockpileForDisaster.EntityCategoryDef>
 
@@ -16,7 +16,7 @@
     <!--<label>Mechanoid_Scyther</label>-->
     <description>Mechanoid_Scyther.</description>
     <childThingDefs>
-      <li>Mechanoid_Scyther</li>
+      <li>Mech_Scyther</li>
     </childThingDefs>
   </StockpileForDisaster.EntityCategoryDef>
 

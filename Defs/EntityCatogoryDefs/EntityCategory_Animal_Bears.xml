@@ -7,7 +7,7 @@
     <!--<label>GrizzlyBear</label>-->
     <description>GrizzlyBear.</description>
     <childThingDefs>
-      <li>GrizzlyBear</li>
+      <li>Bear_Grizzly</li>
     </childThingDefs>
   </StockpileForDisaster.EntityCategoryDef>
 
@@ -16,7 +16,7 @@
     <!--<label>PolarBear</label>-->
     <description>PolarBear.</description>
     <childThingDefs>
-      <li>PolarBear</li>
+      <li>Bear_Polar</li>
     </childThingDefs>
   </StockpileForDisaster.EntityCategoryDef>
 
